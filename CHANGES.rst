@@ -8,6 +8,10 @@
 Changes
 =======
 
+Version v14.4.0 (released 2026-09-21)
+
+- refactor(schema): Use reusable IdentifierSchema instances instead of partial calls
+
 Version v14.3.2 (released 2026-08-18)
 
 - fix(awards): make `funder` required
